@@ -1,13 +1,51 @@
+
 #EXTM3U
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+plugin://plugin.video.elementum/play?uri=https://pastebin.com/raw/600zLWrA
+#EXTINF:0 tvg-logo="https://comandotorrentshd.org/wp-content/uploads/2020/11/Artemis-Fowl-%E2%80%93-O-Mundo-Secreto-Torrents.jpg",[COLOR blue]Artemis Fowl – O Mundo Secreto [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8DA0A9807ECCDE01AED209FBDB4A5EDF51638165&amp
+#EXTINF:0 tvg-logo="https://comandotorrentshd.org/wp-content/uploads/2020/11/A-Verdadeira-Hist%C3%B3ria-da-Gangue-de-Ned-Kelly-Torrents.jpg",[COLOR blue]A Verdadeira História da Gang de Ned Kelly [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80B9F3371C38112743FC41420AACA0894FCA14DF&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/armas-em-jogo-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Armas em Jogo [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29D9F3723384223795AFAA17F8C2EE7E82F9781A&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/fuga-de-pretoria-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Fuga de Pretória [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3397608E2821642318A0204615055A1190CFEA53&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/esquadrao-lobo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Esquadrão Lobo [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2512209875EA6AD4DE752A21DDE80AC21C02FD08&amp															
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/buffalo-boys-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Buffalo Boys [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2C5F5C4C81DCBF27841FA4CF05C9E0628BB5C97&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/abaixo-de-nos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Abaixo de Nós [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D6F31E90B916F7447103042E8D36488F5F6FCD51&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/alma-de-guerreiro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Alma de Guerreiro [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EAA04BF2ED1F21C72F3C7885FF14CFE19F79048&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/o-instituto-de-magica-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]O Instituto de Mágica [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7474C16CB58BB1B52D603C2DFFB8FF4FD7CD72C7&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/muito-alem-do-ordinario-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Muito Além do Ordinário [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:847C39D691EC78A68A5EA80DCF38D017DA006AE4&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/bob-esponja-o-incrivel-resgate-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Bob Esponja - O Incrível Resgate [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840F44334831541E2FA79EADE6DFAC74338C6463&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/a-licao-de-moremi-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]A Lição de Moremi [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:746806189936643F76426AF8B52952554746E789&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/o-grande-ivan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]O Grande Ivan [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9CB5E2DBA19CA29A71519A2393B365AE1A39537&amp														
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/rainha-de-copas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Rainha de Copas [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3780E21BD46FFD6037DEDCD30DD7BBA6C23634CE&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/refugiado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Refugiado [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7BE8544831B6C1E50B1D0080224401EF557E8E04&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/espada-de-deus-a-ultima-cruzada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Espada de Deus - A Última Cruzada [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27A37C8CB44987F4584B0C1CF60A4AC36E34BFF6&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/abraco-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Abraço [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Nacional...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6AD7668E1A6C6372B3D1ED9F1956F3A00811170&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/sonho-olimpico-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Sonho Olímpico [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E207E54BD91D7A4E5E7C267F1ABFAB4E7EFE02DF&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/missao-presente-de-natal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Missão Presente de Natal [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F968876C877F69DC13C62599CC9464310649E52B&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/luta-pela-fe-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Luta Pela Fé [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623AA406C0B7467BBF76C56B95F9AE16F33377D2&amp
+#EXTINF:0 tvg-logo="https://completotorrent.com/imagens/tempo-de-caca-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg",[COLOR blue]Tempo de Caça [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ABB0AF4A9E0A8E2B9D74DBAFA40143855BA20FF&amp
 
-#EXTINF:0 tvg-logo="https://a.imagem.app/OIDk8.png",[COLOR yellow] """"""""" LANÇAMENTOS..2019..E..2020..POR CATEGORIA """""""""[/COLOR]
-https://pastebin.com/raw/600zLWrA
-#EXTINF:0 tvg-logo="https://68.media.tumblr.com/480d159c3b740ad8e6dac9061d9a91c2/tumblr_ov1medRFu61wqde1to1_540.png",[COLOR green] """"""""" FILMES..VIA..TORRENTS """""""""[/COLOR]
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:0 tvg-logo="https://a.imagem.app/OIDk8.png",[COLOR gold]""""""""" DUBLADO..BluRay..720P/1080p """""""""" [/COLOR]
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/r41smy5WwN2Swes8PwahhWRQvCU.jpg",[COLOR blue]Mulan [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4959A62ED0ED34203FE654FBE69F659AB25887A2&amp														
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",[COLOR blue]Rogue [COLOR White](2020)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
@@ -2761,24 +2799,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8A58EFE39E6345379BE
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BD6B05A2DAEFF0DD08FB72BB8094F968134E09A&amp
 #EXTINF:0 tvg-logo="http://www.filmestorrentslife.com.br/wp-content/uploads/2017/06/Knack-%E2%80%93-Ca%C3%A7adores-de-Rel%C3%ADquias-203x300.jpg",[COLOR blue]Knack – Caçadores de Relíquias [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B20926E4F6BC5D7E58BA13955E2688B949FA1AE&amp
-#EXTINF:0 tvg-logo="http://www.filmestorrentslife.com.br/wp-content/uploads/2017/05/Morando-Com-o-Medo.jpg",[COLOR blue]Morando Com o Medo [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2BE682E716FF124C5C1BA2B3106085E63F58AFC&amp
-#EXTINF:0 tvg-logo="http://www.filmestorrentslife.com.br/wp-content/uploads/2017/04/Mal-Intencionados-200x300.jpg",[COLOR blue]Mal Intencionados [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AE2F84F646A0D99A38A0C9A515973C2C6EAE0287&amp
-#EXTINF:0 tvg-logo="http://www.filmestorrentslife.com.br/wp-content/uploads/2017/06/Aprisionados-210x300.jpg",[COLOR blue]Aprisionados [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E4EF2A1D0ABB39DFCF14EB0814AD9E35237F531&amp
-#EXTINF:0 tvg-logo="http://www.filmestorrentslife.com.br/wp-content/uploads/2017/02/O-Ataque-dos-Zumbis-de-Cal%C3%A7a-de-Couro-206x300.jpg",[COLOR blue]O Ataque dos Zumbis da Calça de Couro [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46D7CD53A02497BEF18F4FBCA9DE108171982D57&amp
-#EXTINF:0 tvg-logo="http://www.filmestorrentslife.com.br/wp-content/uploads/2017/02/Ningu%C3%A9m-Deseja-a-Noite.jpg",[COLOR blue]Ninguém Deseja a Noite [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BFE43B4DD30B51C1435D7CB031A03F3D58C66216&amp
-#EXTINF:0 tvg-logo="http://i2.wp.com/comandotorrents.com/wp-content/uploads/2017/07/A-Era-da-Escurid%C3%A3o.jpg",[COLOR blue]A Era da Escuridão [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C51AA2D2F14E3CA65841422DE6C0A933767C819D&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-V-dY_7e6E0k/WWGjN6eDmWI/AAAAAAAAIEA/JsFoivQ0NbA2zBLHgp6fSh-CTsB9E6AeACLcBGAs/s320/cover.png",[COLOR blue]O Fantasma do Futuro [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D29FE1CC02F142BE8F783ACD9BD492C3D602003F&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-gYsFrbqPcLc/WV9uBudnBHI/AAAAAAAAIDQ/Iyf94l_cqcsESTj_ilc3UP0MOCEhQmQbQCLcBGAs/s320/cover.png",[COLOR blue]Leve-Me [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F386F347B54E362CC2385E1317805A790255998&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-kQmACUgu3to/WV9fs0jSvHI/AAAAAAAAIDA/uw_YB7H2wFQ1HzRWO1TkMe3dhGjXbVCNQCLcBGAs/s320/cover.png",[COLOR blue]Vincent e Roxxy – Cúmplices por acidente [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE4DD440397E90B13CB7D478EDCBD34704505E1C&amp
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Mo21KoU65M0/WV8tc4n657I/AAAAAAAAICg/F2uymUc3YT8EBL88fp9b5ICCyvBtH9sngCLcBGAs/s320/cover.png",[COLOR blue]Sob Custódia [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:384B59E8CBD9197B72340F39CF9FD1C20489CE88&amp
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jIwdJrGCDAo/WV5Mpq2r14I/AAAAAAAAICQ/LMC1qZ1HYGg9KpWdrA4pY9DzohJFt9sXgCLcBGAs/s320/cover.png",[COLOR blue]Vida Dupla [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
@@ -2791,288 +2811,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4667947AE4FB263ECB9
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2BBF41E432F585DE673DE627CE1444429E9FF37A&amp
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-w1S63zRrpBk/WV0OcCtZECI/AAAAAAAAIB0/sRAf1gCtmeAOV_DPjba_Qa6IT8RmgmmBgCLcBGAs/s320/cover.png",[COLOR blue]Resident Evil – A Vingança Sem Compactação [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5E44E4A9DBBC74B48CB5201CFCEC72ECF251C74&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-hsE0hjfKLIg/WVy4j8V0d_I/AAAAAAAAIBc/Mo6yBDbhGmQgAoEwvYK-JX4m5DjibqEDQCLcBGAs/s320/cover.png",[COLOR blue]A Peregrinação [COLOR White](2017)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C2D1F056B8E3D06096012A809D5B697B91C7290&amp
 #EXTINF:0 tvg-logo="",[COLOR gold]....FIM DA LISTA....[/COLOR]
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXdTDzU_gCLcBGAs/s1600/Big-Pai%252C-Big-Filho-torrent-dublado-bluray-1080p-720p.jpg",[COLOR blue]Big Pai, Big Filho [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DF5956D9374C67132F13696E40306A8A9AC21CF0&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-fsPqsEBvkKo/W0lj4V9L5EI/AAAAAAAAN7M/ZqPYnuIqT_8r_opAJaHaI20S4z2vpi-fgCLcBGAs/s1600/Homem%2BFormiga%2Be%2BVesta%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Homem-Formiga e a Vespa [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:5F18EC33FF29E10E7ABD35FC23D7CF3EDD3122B6&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Iy9mtoM-nxU/WTNeQTAcIUI/AAAAAAAADXA/RZvpWNmoU6sIUmL40Njk9_TMgMRJfMXywCLcB/s1600/kung-fu-yoga-torrent-2017-bluray.jpg",[COLOR blue]Kung Fu Yoga [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:5F24D3AFFC4E946303FBAC0642D1F563C686C55C&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-Ij52kirgVGA/W7Pude6DpHI/AAAAAAAABAE/xkwMJ_IWCMk_get11w1cO1OsVJs2tjBjACLcBGAs/s1600/Khali%252C%2Bo%2BAssassino%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue] Khali - O Assassino [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:FF14213520BDFBDF76A2D4DE85D6626FC2BC7009&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-5QmKVaqDPgc/W7PudsPJWHI/AAAAAAAABAI/Aa12HCXZLSs_ojhtAUyQXOvSn5kcuPFAwCLcBGAs/s1600/O%2B%25C3%259Altimo%2BAssalto%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Último Assalto [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:F47C19A5FA2BFBC71F95F120B469C05D646F0677&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-wxm4uTXx_Ro/W7WaemGN1OI/AAAAAAAABEc/pZc6zPymKpoGVkQiYkVwlOSuLDK1nd8wwCLcBGAs/s1600/Pris%25C3%25A3o%2BEstelar%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Prisão Estelar [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:F507CA65962916762E9AD615587F1F0D54F25A60&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-IKdm95O82Vw/W7VrOl6y-7I/AAAAAAAABDA/Zx2Bv6bVmdUH5b3wKaFx261YgDO2EbS2gCLcBGAs/s1600/Opera%25C3%25A7%25C3%25A3o%2BFinal%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Operação Final [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DF70EADCBEF996010E231AB5D9EFA0214249CBC1&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-JAnUlfnTAUc/W7UqWlA6PwI/AAAAAAAABCk/f2fH2xdIFXwm207pQR_-w7ndye2q5XnKwCLcBGAs/s1600/Os%2BLargados%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Os Largados [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:C53BB820FE543548014AC8EDBE7E59EAEBBD25DC&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-bvC9Mwfqml4/W7ToT_lV4FI/AAAAAAAABBU/8LoGj94V4A830FCNuAkTubKB8ZBVQK_CQCLcBGAs/s1600/Persegui%25C3%25A7%25C3%25A3o%2BExplosiva%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Perseguição Explosiva [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:02BC3E69D02D3AF2E3690A32406670B2B313C022&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-yYm3HfcBjU8/W05Hn4O-ykI/AAAAAAAAOEY/dRs-D9BtkZUQukdCJkK5QpUxxL3L7WIyQCLcBGAs/s1600/Siberia%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Sibéria [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:12A6A9684547812F63AA72AC90CBAF2FAEEB9253&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-UEYWR-ajh3I/W7LOBUXdEKI/AAAAAAAAA_Y/GRwlmEBcPhoxI8Hw_8q1Ih3B8YWiXE2iQCLcBGAs/s1600/A%2BCriatura%2BSombria%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]A Criatura Sombria [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:BADC1DDE3C6863B90348ACA1075B13D7C9FFDB06&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-9QnpfYPlofM/W5KVPDHI7vI/AAAAAAAAQtc/YbVhRFsVJnMKWQCeKUq7ljyHMJrWJ6rwQCLcBGAs/s1600/Next%2BGen%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Next Gen [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:32B10478F7C0B99C7AE13804D5E5AA33D3DD0E21&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-oLpcmGp8DWc/W7EATeGkVUI/AAAAAAAAA64/I4WxdCOaHQILyO6xDke5gop3sMeNgtjmgCLcBGAs/s1600/Clarisse%2Bou%2BAlguma%2BCoisa%2BSobre%2BN%25C3%25B3s%2BDois%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Clarisse ou Alguma Coisa Sobre Nós Dois [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Nacional...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:FA58A0AA8A428E2E52718478CC1D7B2B4A9472BB&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-YUwc4qvxzgQ/W6rP5gAZkuI/AAAAAAAAArc/3fEEWTtS67ApMAtyP-24gUyCv_kPEwXgQCLcBGAs/s1600/Jurassic%2BWorld%2BReino%2BAmea%25C3%25A7ado%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray%2BHD.jpg",[COLOR blue]Jurassic World - Reino Ameaçado [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:B055801AA7E8ED8012A04EFEFD7EC211C715139C&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-kfVNhlyYvHY/WxFA2GGmWbI/AAAAAAAAL8s/COAsf3UcHP4xTUZNJs87NjV7PEDNvlblgCLcBGAs/s1600/Future%2BWorld%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Guerreiros do Futuro [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:AFB6699BDA8579095A2817AFED9AEF8893226417&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-8b7YGFZU9Vo/W63YDZK1ObI/AAAAAAAAMwU/jNRyVTPjX6w35uPwceukH_ZeWGfA0xsDACLcBGAs/s1600/cover.jpg",[COLOR blue]Noite de Lobos [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:6BA06A2418C6A0B6E5F87E965EA1E04595BB752F&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-FfuZChkWYi0/W5VcVo0VeRI/AAAAAAAAQzI/BMDjSXCtIfwhIeU4FHG1tCqpBRquzwCJQCLcBGAs/s1600/Han%2BSolo%2BUma%2BHist%25C3%25B3ria%2BStar%2BWars%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Han Solo - Uma História Star Wars [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:A7BDD3782A41DD4BA60F28370275F525EB010660&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-YdlgXE38S70/W5gat8NpjuI/AAAAAAAAAD4/YY4MCWOZ_OANv-oE8ZozteOoVtCRh8-pgCLcBGAs/s1600/Sic%25C3%25A1rio%2BDia%2Bdo%2BSoldado%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Sicario 2 - Dia do Soldado [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:408C2A541A1DF2EFFDE6513C03FB97BC20535B27&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-dtkjGAKwlXY/W53e_k4TnII/AAAAAAAAAWA/vEBKZe_jnw4q-0OTKkIODmJXR1K4hDlKQCLcBGAs/s1600/Maximum%2BRide%2Bprojeto%2Bangel%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Maximum Ride - Projeto Angel [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:05F5DEBC723F07C2BCB66629CFB2EEDF3CCB8DA6&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-dv3VDrgDV-c/W50fHyy0THI/AAAAAAAAASw/kDXwoEMPDukCNOodWfmfBYgpxOsxJLtygCLcBGAs/s1600/O%2Bserial%2Bkiller%2Bmascarado%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Serial Killer Mascarado [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:F4058A125316616A481F07FC9B194C24B9BE5675&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-tI_LdAmffYA/W5KdjIIC5PI/AAAAAAAAQuY/OatiHgeHpyQ1_VZwfmDqCo33fWMIROxKgCLcBGAs/s1600/Depois-do-apocalipse-torrent-download-dublado-bluray.jpg",[COLOR blue]Depois do Apocalipse [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:BE474662D3E623B083452370C8D6372B0C674425&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-yoIWIhOWTXQ/W5vSJuXNc5I/AAAAAAAAAOo/qqkCgrh6LaEzBbKS_6-IgTDJdk1JBTdwwCLcBGAs/s1600/Bleach%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Bleach - Live Action [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:F2CDC2C8B1E1E1510E23949E9CE9DDB947803B4E&am
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Avu82zuBJHQ/W5vSKd7a0zI/AAAAAAAAAO4/-JeY6eRmleoHPmyUXPPgEemIDi6fIqGdgCLcBGAs/s1600/Gente%2Bde%2BBem%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Gente de Bem [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:894A96523D253DE9AAEAC8655D75AF17D0110B20&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-9mU3ljk5ex8/W5vSKsXTcAI/AAAAAAAAAO8/rSh1KijUkrwgecXQ40-h850nKNza0etAwCLcBGAs/s1600/O%2BAnjo%2Bdo%2BMossad%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Anjo do Mossad [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:6BC478A15918D4C34E1DF1184A78AAFBBDB31F64&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-ibfNNG6zylI/W5tQ5Mny-1I/AAAAAAAAANM/xbpvsU1fGpIxT-9p6nikWLAXorTyu7o6gCLcBGAs/s1600/O%2BMassacre%2Bdo%2BMoinho%2Bde%2Bvento%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Massacre do Moinho de Vento [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:53FE4B7EAC29DE6752A6EAD02322858C4857C854&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-UUwkdeyaCGM/W3MK8GqFPVI/AAAAAAAAPgc/rYwWfBrMuNMygkcr1TYRrXU4zDIVYoYkgCLcBGAs/s1600/Sol%2Bda%2BMeia%2BNoite%2BTorrent%2Bdownlaod%2Bdublado%2Bbluray.jpg",[COLOR blue]Sol da Meia Noite [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:0B496AB0D7A75B705D60F488CC3FF74FB930A4A2&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-EfHyqn6V14c/W5rJqerbOcI/AAAAAAAAALQ/4xF66r6GO7UJ-Yt2xqOsbh0smVKR3_2xACLcBGAs/s1600/Tio%2BDrew%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Tio Drew [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:9DF83A93EEB2533E497A8FBF5E8F18E066CA4C8C&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-i7W0ShgJaHA/W5rJnDCoapI/AAAAAAAAAKM/AbbbPn0qXFIqwhpSBGQ4b7etKCZwvs9dwCLcBGAs/s1600/A%2BBaba%2Btem%2Bque%2Bmorrer%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]A Babá Tem Que Morrer [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:BBD0CC02D85934CA75CE2ECC01D43DC549BFC657&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-OS5a4my2DpA/W5rJp7R9kbI/AAAAAAAAALI/F9_uIre8kzI59QnmAOYZdNkMe8tLX5UtACLcBGAs/s1600/Hurok%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Hurok [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:BC457ADA3CEF57BAA6FDF92C5A674292DF515190&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-ZalBwdIFfHc/W5rJn-O4dEI/AAAAAAAAAKY/oNlL6Jl06xgG9oE0xPelgiALe52Hi9FTACLcBGAs/s1600/A%2Boutra%2Bfilha%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]A Outra Filha [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:3AE7A99D8636ECB6A27B3E0CFDDFC2F2B70743A0&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-D-2Jp-oFe0A/W5rJoXhzbrI/AAAAAAAAAKk/lifAKWpSJhAGpa9cs5RFmptabRErKLupgCLcBGAs/s1600/Cidade%2BLouca%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Cidade Louca [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:CDC1F3502AAC4AA9EBC7B680BC4B16A7DC015CA6&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-XmYDqjnIKso/W5lDYseI11I/AAAAAAAAAGw/NZPEgD1oVTwmrNwcYoJ8d9fDR6wGjt1_wCLcBGAs/s1600/Pedido%2Bde%2BAmizade%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Pedido de Amizade [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EFBF45F7190DF828A5AE2AD43BF888B3CFEACA27&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-DfgGfHufjpM/W5kv3dBWnCI/AAAAAAAAAFg/KmJudCXWLnw-75LzKJOzlT3bls1xOT0NwCLcBGAs/s1600/Jane%2Ba%2Bm%25C3%25A3e%2Bdos%2Bchimpanz%25C3%25A9s%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Jane - a Mãe dos Chimpanzés [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EDB2E56C5033604B2D0C28F08690845A878945E0&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-V3VD2YPjGzk/W5lDYl7XR7I/AAAAAAAAAG0/CwITbhPKlkIqvht3qkbYLCc5-Kn9npa4gCLcBGAs/s1600/American%2BPoltergeist%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]American Poltergeist [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:2562940898451B799DDB02313DA6859C64DBCF0C&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-Wmni-XE-Aqc/WyE-U05c_iI/AAAAAAAAMbQ/uK6jOlKP-8MvO70AHFiq9fuzVtaDaSWKwCLcBGAs/s1600/A%2BNoite%2Bdevorou%2Bo%2Bmundo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue] A Noite Devorou o Mundo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:FA27418F841BE8D4BD26E79A6FBFA2181778EC53&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-uePnbBo8VVI/W5rJqP5m7GI/AAAAAAAAALM/D9En-Nx600QtmhOxZqGAgD3JHlGBCp8mACLcBGAs/s1600/Obcecado%2Bpela%2BM%25C3%25A1fia%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Obcecado pela Máfia [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EAE98E32350D025654292F5F912774FB2FF0BC3A&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-sOk2c5MXuWs/W5mGV7BHELI/AAAAAAAAAIg/Yi-7rOrJUKwEhHOIv-jS0zXiflVJb5RUQCLcBGAs/s1600/Um%2BConto%2Bde%2BSereia%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Um Conto de Sereia [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:8F85D7783DF16A783794B54F9BB535C0578646D8&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-jCpx0AY5Ivc/W5fdyQYZFeI/AAAAAAAAADk/Sv6SrlmIdSMapYOxpUGD2R0ez_fxJKaqwCLcBGAs/s1600/O%2Bbanqueiro%2Bda%2Bresist%25C3%25AAncia%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Banqueiro da Resistência [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:CFE7877FFD67F7FFE178512B21FA54FE57DA9762&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-5fSyep3yzOI/W3TPY7szxWI/AAAAAAAAPlQ/4B-7k9ZGfig1zpXKCybt3zBKfeIPnSwyACLcBGAs/s1600/A%2BGrande%2Bjogada%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]A Grande Jogada (The Big Take) [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:BCF58EDCEDA054326DAD9987869A00C3383F9883&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-RN67HZs9cF0/W5b2NXZkiyI/AAAAAAAAABU/BiWcETPgeoYGONMS5Iw1E3GF18kGQDCcgCLcBGAs/s1600/SPF-18%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]SPF-18 [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:97651AA69E5D1CA388784BAEAA31C90C0114B2F7&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-oJWYi5FO8dE/W5VAO7am32I/AAAAAAAAQyg/r8GbriSu4Rk-IJ6T_PpzTI2pa_smTUslwCLcBGAs/s1600/Scooby-Doo%2Be%2Bo%2BFantasma%2BGourmet%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Scooby-Doo e o Fantasma Gourmet [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:FD926B5755CF543C70AEEA31CE4FA8BE089EE8CB&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-wQW7vR-MlBU/WqHfFQPI7iI/AAAAAAAAJVc/SUGJ_44O8iEvBbRE2Ik5U0elPQnytvJBACLcBGAs/s1600/Batman%2Bvs.%2BDuas-Caras%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Batman Vs Duas-Caras [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EC598B7F639C0B045F55B0C5C156EFB5FED02868&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-MIwCUlaZdSA/W5BmOAHydRI/AAAAAAAAQkg/4Jf0GLMNK1g25Jv7vmxiSh27btpWE8BoQCLcBGAs/s1600/Mazinger%2BZ%2BInfinito%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Mazinger Z - Infinito [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EF42D85ABA1A806A514438C527BF483CD335F70A&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-HazVJG0wbLI/W5FTJ11W0pI/AAAAAAAAQoI/2MVCFxLsSRgaXgbp4WZIbd9_5mSUklPdACLcBGAs/s1600/P%25C3%25A2nico%2Bno%2BLago%2BLegado%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Pânico no Lago - Legado [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:35B40D381636CCCBA60E1DA5624175B954CE2DCD&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-M1oKNGC84QY/Wt-hsXKI4mI/AAAAAAAAKys/Xoba0V5AykgZxTFEW47YYC0s9EAPG0LlgCLcBGAs/s1600/No%2BOlho%2Bdo%2BFurac%25C3%25A3o%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]No Olho do Furacão [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:50ACDAFEB5FA8E204774DC819E9C04885A8F5110&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-g5KzcE0MuDs/WqqEbVCgjcI/AAAAAAAAJmA/eIueR9vFIJEOJvo5oaA04AQLtpC31wUKQCLcBGAs/s1600/Tragedy%2BGirls%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]As Garotas da Tragédia  [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:BDD7FA28C16C851DC483E81265EA54C20EAD90E2&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-ZHAdanhamqg/W5GF-yHP7aI/AAAAAAAAQpk/ZqmcnrPIzYYxGyVmf8U90Q34ZU_RUofYgCLcBGAs/s1600/Os%2BPiratas%2Bda%2BSom%25C3%25A1lia%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Os Piratas da Somália [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:2E2BC42D88E053754D18B972B64521D019606D9F&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-PvUvoopXDkU/W43X5Ju1SvI/AAAAAAAAQeY/5r3T7PiPoGw4rZx9tPWifaGuryq2quoVACLcBGAs/s1600/Trai%25C3%25A7%25C3%25B5es%2Bconsentidas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Traições Consentidas [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:375A8B081A6CD508A5B7AF00C732A4402F48F84B&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-xo-5lFeKPbM/W5FTLFGSvoI/AAAAAAAAQoU/Pl4okTaP4wwESEzjGb-Cuil9kjt0cTCxACLcBGAs/s1600/Vazante%2Btorrent%2Bdownload%2Bnacional%2Bbluray.jpg",[COLOR blue]Vazante [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:2891C0211059C2314518DA333313707C38EC6CA1&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-noqVhMwwAmI/W5B1yo9ltiI/AAAAAAAAQlI/DJhHQiOj45oW_uoeM-UDjSQR6DzoFX73wCLcBGAs/s1600/Te%2BPeguei%2Btorrent%2Bdownload%2Bdublado%2Bblu-ray.jpg",[COLOR blue]Te Peguei! [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:BE0CE398974AD6176418B38873F4A32D9E0A8A99&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-QOPDXrSeBvs/W34rN58IbXI/AAAAAAAAP3Q/nY8NQMYmPkcv05s8WmsMhY8dde3ZEAHcQCLcBGAs/s1600/Deadpool%2B2%2B4k%2Bultra%2Bhd%2Bdownload%2Bdublado%2Bbluray%2Buhd.jpg",[COLOR blue]Deadpool 2 [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:FB3138C1CA8EDDEE036DDE5917E5B4A90EFEE967&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-0ipPxDRlW6A/W3ubHXZRpDI/AAAAAAAAPw0/XVIztNV96lY7Z4k0L5-eJHoW4sF0GnBjwCLcBGAs/s1600/Oito%2Bmulheres%2Be%2Bum%2Bsegredo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Oito Mulheres e um Segredo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:044F7DC666F62564B9CD7F9F9B70CD2EFECA245F&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-LHngDPx14Lg/W2svuWvY8wI/AAAAAAAAPNQ/AfYrBOPRgVMjmnRJWR7Opi7CWXGXXJaEQCLcBGAs/s1600/Tully%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Tully [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:80586EE0A6FEBF845D0E53007C9FD4E2CCFE10DB&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-AXWOd6Tf3-A/W34eifA4slI/AAAAAAAAP2k/S0h8UZNaJPQT6CUNZHv9MmMyGDNBZM02QCLcBGAs/s1600/Entre%2BSombras%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Entre Sombras [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:48809C65838E852C43249390E624B477AD098455&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2kFWeIs11Wo/W348xpVUh3I/AAAAAAAAP3w/wq5nbTtbMokEAI4bK7gJVvSRd7zbK2d3ACLcBGAs/s1600/Dist%25C3%25BArbio%2B4k%2Bultra%2Bhd%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Distúrbio [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DB4752FF0EFA7DC1C6C0D4B2C25E22F97538A43A&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-NkLN03TpTlA/W2-gmz7j-ZI/AAAAAAAAPXo/jqQ_XiNY5VYw5cH7EXJWr4rUj5gXgtrLQCLcBGAs/s1600/Action%2BPoint%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Action Point [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:56E9650383F415413521E1AA3E27FE95B31ACD85&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cN5KNMXTqEg/WywWcUDm6eI/AAAAAAAAMyE/C7LDwHd90Qsb-dfBEgCdcRhGy5HxttRfACLcBGAs/s1600/Ilha%2Bdos%2BCachorros%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Ilha de Cachorros [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EE7B453035B2C5AF36A59E0024110D1D7D2154D9&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-Wmo-wA2rXK4/W2-gmxOcOAI/AAAAAAAAPXs/OdpIzV4RU_cadYSEWNEy0E5u4p4gaXrTACLcBGAs/s1600/Do%2BFundo%2Bdo%2BMar%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Do Fundo do Mar  [COLOR White](1999)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:72EA9E2D4262FE6FBF7473B10DA66E0DCA343F51&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-ZnItq8Qw3fM/W2-gm42e-9I/AAAAAAAAPXw/ZcDfxuyziAwjV5KgiasRGUrJWeQHotrYwCLcBGAs/s1600/Do%2BFundo%2Bdo%2BMar%2B2%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Do Fundo do Mar 2 [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:1E66FD62CEB75A2B145DA12AE11E3631B8A122AB&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-mtrwPb9qKy8/W2Xy_I-EpsI/AAAAAAAAPCM/UjaKU6bS-gYQqMNlAk6p-7r-XRbfMf9SwCLcBGAs/s1600/Autodestrui%25C3%25A7%25C3%25A3o%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Autodestruição [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:2DB9CAA7A7ADD1BA5AB2BFAC83E9AC5FA0502595&amp	
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-X-zRcR7JmX0/W2h713bmdBI/AAAAAAAAPGM/3WWmDvKhw8chJJMi3xBCsp8OEcIMHQuRQCLcBGAs/s1600/Laval%25C3%25A2ntula%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Lavalântula [COLOR White](2015)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:D91C4FDE5D9C668D35D151BD09AC8A15750382BA&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1WSMB4nT5P0/W2h71lboDsI/AAAAAAAAPGI/d-utWs-yd543RTn32gTlx_77LViQRyYRwCLcBGAs/s1600/Lavalantula%2B2%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Lavalantula 2 [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EE58E17443022A311967E0BDD02C8D172CCF0B72&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-amvQhyGK45Q/W2UPLvDgTBI/AAAAAAAAO-A/7nGpZZQqqgsyB91IhpbNBZRVvWb4BuEmgCLcBGAs/s1600/Ploey%2BVoc%25C3%25AA%2BNunca%2BVoar%25C3%25A1%2BSozinho%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]PLOEY - Você Nunca Voará Sozinho [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:00A34C255779CD6CDD938BC8DA59851EF38C8B46&amp	
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BKGHt9yUncA/W2XYRFhFihI/AAAAAAAAPBw/Sr4JwYzgR-YFpAahZ4d78sD8hmyjGEwtQCLcBGAs/s1600/Um%2BDia%2Bpara%2BViver%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Um Dia para Viver [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:38A4CACAD0E40D1BE600A132548926AD2B9C1797&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-6X9ZB2E9jUA/WwQizNzrZFI/AAAAAAAALns/fDol8rvmPCEcCUjxd0Y4GbLStQzEEAhcwCLcBGAs/s1600/Desejo%2Bde%2BMatar%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Desejo de Matar [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:D85FC03D770F6488E83078C562ADF0CF7639890D&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-vRYYUHsn5JI/Woi5MTVc8LI/AAAAAAAAIiI/lxZE1EmcGnMc2zS8C1mJL370MVWxHK4EACLcBGAs/s1600/All%2BI%2BSee%2Bis%2BYou%2Btorrent%2Bdublado%2Bbluray%2Bdownload.jpg",[COLOR blue]Por Trás dos Seus Olhos [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:B8343F9D139F5E5188D48BD491A9079AE0283E6B&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-1ZNEdQJID9Q/W2O8aeChQUI/AAAAAAAAMM4/xqNiKWC5dO8Ak5mFFqUdLTVtVchcSEF_ACLcBGAs/s1600/cover.jpg",[COLOR blue]Para Sempre Chape [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Nacional...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:40E1F01C1B04B4F120BF186B99E7E2CC268368FC&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-mCV7bGS40pI/W2ORejj1oAI/AAAAAAAAO30/YfUmBQgmaRMjPLF4LUP_Ur6MHUls6CAhACLcBGAs/s1600/David%2BVs%2BGolias%2BA%2BBatalha%2BDa%2BF%25C3%25A9%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Davi e Golias - A Batalha da Fé [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:87395C2AB8BFF7F4A7D09B55E0C4F94EF89C8969&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-2OEA5zuwIFk/W2ORmV29ATI/AAAAAAAAO5w/JW9pdPKHtFg-b3k9KMLLr-pH3X-ZmXRdACLcBGAs/s1600/Guerra%2Bdos%2BChefes%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue] A Guerra dos Chefes [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:F52619D530504DBEB6EFEF9F2D87D8E11545AA88&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-7w2hd3isXdo/W2E9bIYW5dI/AAAAAAAAOyg/3fu1VCRibUAd0fX5qpB5aiM4F3gCLSbbQCLcBGAs/s1600/Vingadores%2BGuerra%2BInifinita%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Vingadores - Guerra Infinita [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:6BE54BD75FA910FFF23E978104C4646450437312&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-mfx_E5g_tx4/W2EpBoxI1qI/AAAAAAAAMMI/X5DyNUB2yzQyJWg9I9cFHYZbN7_qzKuJQCLcBGAs/s1600/cover.jpg",[COLOR blue]Vingadores: Guerra Infinita  [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...BluRay – REMUX Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DFB0041D9EE866D113DE1B29CAFDFA9EC19F7E02&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-HAhfl6QoC-A/W11XVEZ0f_I/AAAAAAAAOtc/tvaq6wyL8A4_ISM7JcMpb6k7I879_DogQCLcBGAs/s1600/A%2BMans%25C3%25A3o%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]A Mansão [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:D150FC3B365CD6681C7A601BAD2052A12990A244&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-zrBnvqCOuq0/W2D-XtV042I/AAAAAAAAOxg/UT1Kk5swJI07vCRTX6no-W1l5GgJqdXfACLcBGAs/s1600/As%2BCalouras%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]As Calouras [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:D4E938D507BC7B3F9EE3803C8F27A0EF1DCECD0A&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-NJpEAItViw8/W2D-XlLCg8I/AAAAAAAAOxc/HUal26_sVGwwYh6O47KAN8ETBx0fsjhdwCLcBGAs/s1600/Almas%2BSecas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.png",[COLOR blue]Almas Secas [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:1FAFC584D2D769FD8097AF4384995D1C39985231&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-XRIQw68XKMQ/W1_FzM6FXKI/AAAAAAAAOvY/HU2aOGDXvOYoudNYZjgtVHOpoRiI6E2mwCLcBGAs/s1600/LEGO%2BDC%2BComics%2BSuper%2BHer%25C3%25B3is%2BAquaman%2BA%2BF%25C3%25BAria%2Bde%2BAtl%25C3%25A2ntida%2Btorrent%2Bdownload%2Bdublado.jpg",[COLOR blue]LEGO DC Super Heróis [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:73C1D3B32609945604DE1EFDC90BA5636CE77DDD&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-utPbpPCmNPQ/W1s-7WmQ8sI/AAAAAAAAOpk/LwDFvaB3hlwTHVLlOy5QZMkDcdvPNesDwCLcBGAs/s1600/My%2BPet%2BDinosaur%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Um Dinossauro Em Apuros [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:C61761629F00B4332019B8A47866765A4861972F&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-lz0orpXcqxY/W1s-76PNf-I/AAAAAAAAOps/uDxhZz-RFcMS59KFuKZEb1OBKt_X_cThgCLcBGAs/s1600/Pistoleiros%2BVingan%25C3%25A7a%2BSem%2BPerd%25C3%25A3o%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue] Pistoleiros - Vingança sem Perdão [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:3DC5D6802888F2F2A0337A2F6308F8C71D56FDA6&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-6G3ppujeC5Y/W1s2SwifTzI/AAAAAAAAOos/OBb4xQXpfZgBEtnsX1hxXvUqHt_t1F1JwCLcBGAs/s1600/Extin%25C3%25A7%25C3%25A3o%2BNetflix%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Extinção [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:36C15B0F533014AA3BA8007C1440C6FC79D1D7E9&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-l_VGKgeWklw/W1nafF38I7I/AAAAAAAAOjk/7BDI597QGVUTyF7cx9eGWCKO5KDPDzrYwCLcBGAs/s1600/Cyborg%2BX%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Cyborg X [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:&A086C77F416412F2338FEB961A2F813582CA1A0Famp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-CQRpBoeJeYc/W1kewK6eeLI/AAAAAAAAOiw/ub9UFr4PZEUJSqrUwqVMojE3Q7nWczW3ACLcBGAs/s1600/As%2BAventuras%2Bde%2BBrigsby%2BBear%2Btorrent%2Bdownload%2Bdublado%2Bbluray%2Bcompleto.jpg",[COLOR blue]As Aventuras de Brigsby Bear [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:9E35CD1F74A96EB8C717E18EFB248A310B3AB25A&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-84r9L2DODCw/W1eCPO-1SxI/AAAAAAAAOc8/ucrBrzOS648H7jBEt2hiPgbagxvOBw2ZgCLcBGAs/s1600/O%2BAviso%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Aviso [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:23ADCC40F96D3233514CEC24F6455B40636912B0&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-1QaoubMhGMY/W1N2of93UcI/AAAAAAAAOSo/rzSS4_vDnY4yR9-ubwi-n5ks7JRlDpM5wCLcBGAs/s1600/Vingan%25C3%25A7a%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Vingança (Revenge) [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:0FE2C33A72291532CA32CAE75A773AF39312F0A1&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-PFWjlRXRqQU/W1NRKHjnr3I/AAAAAAAAORQ/RX3kC15nxZsjBXAUIHjXR6uv-YGva2K0QCLcBGAs/s1600/Pato%2BPato%2BGanso%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Pato Pato Ganso [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:AA6BE62A05EF9C1F3923875A2D9F137E1BFBB87E&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-h_3itY0siio/W1NRJsMxUxI/AAAAAAAAORM/0liyUclba4I1LHV97N7eug9GXeDrojg5gCLcBGAs/s1600/Pai%2Bdo%2BAno%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Pai do Ano [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:9778F3A17D73273960F1793E8946FB4F6DA33838&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-LbTyyjVfoFg/W1H-Yyoh8gI/AAAAAAAAOOc/fzzYs41zWSglpamT8g3VhtVkKyfji0P2QCLcBGAs/s1600/Deu%2Ba%2BLouca%2Bno%2BAladin%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Deu A Louca No Aladin [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:3211340E476C44146CA03AD98C032D11D76E10AE&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-VquBJQCAVtc/WyZ_rh1IsfI/AAAAAAAAMnI/YP82kds8zuYD43GY5DiEXxCbTHUz4SyHACLcBGAs/s1600/Sete%2BDias%2Bem%2BEntebbe%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]7 Dias em Entebbe [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:F98A9A92A2EAC2168C19F9A96068910C2D62CF06&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-glijPzVaE5c/W1DlkZBeJ6I/AAAAAAAAOM4/7Jeui0l0tYUgxo5TS7eOjr02gMlfDHiBACLcBGAs/s1600/As%2BIncr%25C3%25ADveis%2BHist%25C3%25B3rias%2Bde%2BMax%2Be%2BL%25C3%25A9on%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]As Incríveis Histórias de Max e Léon [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:3585B2C3BFDE6CEA7547B44A33B56F67B018A3C2&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ZvVie3Oc51k/Wf37ijXn47I/AAAAAAAAGng/3CrvfnPTodkwyve8wM_cg4mnt2N39xWIACLcBGAs/s1600/olhos-famintos-remasterizado-torrent-2017-download-dublado-dual-audio-bluray-1080p-720p.jpg",[COLOR blue]Olhos Famintos [COLOR White](2001)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:B828E7088E2B6B12468BC1ECE715206608A09F12&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-tpxj0eQ8k2Y/WgcBOQ2og_I/AAAAAAAAGpY/LT3WU1t_Dn0tWuNJSCJHuUNsqDqSAAVUACLcBGAs/s1600/Olhos-Famintos-2-torrent-2003-download-dual-audio-5.1-bluray-1080p-720p.jpg",[COLOR blue]Olhos Famintos 2 [COLOR White](2003)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:6F2EDB5B634442698C6FD1B916709D47C17AB643&am
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-pw7n6iRcmbg/WgcBPMgdtWI/AAAAAAAAGpg/iFTLa_qKSEcXvrPhuqPVzbMWAym8z8bAwCLcBGAs/s1600/Olhos-Famintos-3-torrent-2017-download-dual-audio-5.1-bluray-1080p-720p.jpg",[COLOR blue]Olhos Famintos 3 [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:C6A98E81C2E8204DABA773A00A14436C0D8B6631&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-WRtUDC9CxKg/W094SrL9X6I/AAAAAAAAOIs/PpUF6CcrEMcoUtMGHp15UjKHaXL13ZrrACLcBGAs/s1600/Godzilla%2B2%2BCidade%2Bno%2BLimiar%2Bda%2BBatalha%2B%2Btorrent%2Bdownload%2Bdublado%2Bcompleto.jpg",[COLOR blue]Godzilla - Cidade no Limiar da Batalha [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:C06325579C6897EE8BB0E33E73ECEEE2969A6FBE&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-JLCPEo60wDo/Wl9-zECec3I/AAAAAAAAHZU/q_NdXlwowWoyZZqVk80HKdE4jouxw0dJwCLcBGAs/s1600/Godzilla-Monster-Planet-torent-bluray-2018.jpg",[COLOR blue]Godzilla - Planeta dos Monstros [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:9E0C35549114823F27FA825A9DDFD757109DCF15&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-S5vCwoqo9Dw/W09-Awea66I/AAAAAAAAOJU/Y2LUjQSpkCUFEVFrGJuY0YPDFJhe76WRQCLcBGAs/s1600/Os%2BEscravos%2Bde%2BSatan%25C3%25A1s%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Os Escravos de Satanás [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:CC67B4A9B943D5DE4824C0386D2E4293F5D18F52&amp
-#EXTINF:0 tvg-logo="https://torrentfilmesagora.net/wp-content/uploads/2018/07/Reaper.jpg",[COLOR blue]Reaper [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:E5D886089F94343AEEBF5B55050BCDECE5C86EC4&amp
-#EXTINF:0 tvg-logo="https://torrentfilmesagora.net/wp-content/uploads/2018/07/o-grito.jpg",[COLOR blue]O Grito da Morte [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:8FB4004DF0D0F6ABA286A150E1A8FF8F55DA3900&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-5reyIiwzLeE/W0oaGXtZt3I/AAAAAAAAN8g/7W0_LQ_FIbQ3dfqgc027JbHksekurvQVgCLcBGAs/s1600/O%2BCarma%2BDe%2BUm%2BAssassino%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Carma de um Assassino [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DF633AEFCB397B8F7D6AD3F6CA9C2EEFD9093CDE&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2dZz--jkW08/W0oaFjmiRuI/AAAAAAAAN8Y/Br8c9CTYMM0HJO7hOZeZiPoPTAv6aVRLQCLcBGAs/s1600/Fronteira%2BVirtual%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Fronteira Virtual [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:8CBB1660E415294E63F3B136886691FF9BA86F47&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-MeogDVB3s58/W0oaId7XG5I/AAAAAAAAN8w/jkNht11nHTMlkVACmx9xvZHk-iwKl-O7wCLcBGAs/s1600/Uma%2BQuest%25C3%25A3o%2Bde%2BF%25C3%25A9%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Uma Questão de Fé [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:77B7BCC8F81E52878864655FFB9D09F59D9F3532&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-W_K0f4dlTXM/W0oaHw7GZiI/AAAAAAAAN8s/O3v2G2h8irYgaNCnI_Cr-s7e2PSXp0ZHwCLcBGAs/s1600/Todas%2Bas%2BRaz%25C3%25B5es%2Bpara%2BEsquecer%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Todas as Razões para Esquecer [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:AD1B9E0073A4EBEAB2A36293FAC4C24E87F5904C&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-DV05RbgE7o8/W0lIa-kT8rI/AAAAAAAAN54/ZZs23yAW5KI3ajSGMk7rpITRYPbgKGNigCLcBGAs/s1600/Madame%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Madame [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:FE959A27BF2B122A1BFA953EC5F1628EC7FCACCE&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-r9dC7DPXg6A/W0jB35Wh_bI/AAAAAAAAN4A/0ibs-FFa-_EfnWV-ZfwTmOlGzt-w3gnAwCLcBGAs/s1600/Assassino%2Bem%2BS%25C3%25A9rie%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Assassino em Série [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:6BC1C7316D21402A399396C5EEC8721B17A081B8&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-KgyP02kLC5Q/W0d2rOFoLYI/AAAAAAAAN1o/CziFkQdT7lgYPX54L3zfGskPhcPSfZzcwCLcBGAs/s1600/O%2BVingador%2Bda%2BIugosl%25C3%25A1via%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Vingador da iugoslávia [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:895846BE35E49E836DE8EB3DDEC3AD730E197D77&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-BYP56RN6Bfs/W0hQpSJAXQI/AAAAAAAAMEo/lRogxyfESa0B1RAlHCo8OhCLii4aWbOAgCLcBGAs/s1600/cover.jpg",[COLOR blue]Próxima Parada – Apocalipse [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:1E68B329116F8EBB4A7C1D14DAFAE4F37EFD59F3&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-nM8UL8L1IMY/WzgRGEedfrI/AAAAAAAANMw/Q3Yt-i7el7E0e0F9doLsPzcGKEASLUtiQCLcBGAs/s1600/Maria%2BMadalena%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue] Maria Madalena [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:29351D3141B36D80FB834B658DBD71FD173DF187&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rquo43pw84s/WzgRGv_Pz3I/AAAAAAAANM0/V3NYdW8e1cUd8rYsif9HMe_0ct_UMnu4ACLcBGAs/s1600/Terror%2BProfundo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Terror Profundo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:5A0459CF551DF85DF007FEEEDD30058F3393F6D6&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-pDRNo6kEgOA/W0hb_6R5BPI/AAAAAAAAME4/DKiKs1MSMWIXHUnPzu7lKT9BJ_TUGonXACLcBGAs/s1600/cover.jpg",[COLOR blue]Romina [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:B7795311A0AB127416E1EC781E039A366D5B4957&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-CWo-ikXXhvs/W0ZrX78_tcI/AAAAAAAANxg/rYXuVDlZC0A4AG0gnHm-x2qrb3wYwvnAQCLcBGAs/s1600/Guerreiro%2Bda%2BEscurid%25C3%25A3o%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Guerreiro da Escuridão [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:1CE9F1A11FD31C5C1711D52314572783D79B2205&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--2f4L9EF4fU/W0YnQXH35yI/AAAAAAAANvE/GlCE27_3MyEQIy6z4C41iMWwIaInKE8HQCLcBGAs/s1600/Tudo%2BCome%25C3%25A7a%2Bno%2BBrooklyn%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Tudo Começa no Brooklyn [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:C2024D45188E437682CAA2F3C2AE5F3CC360FEB0&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-pH9DP7j2zws/W0ZrbnFNBfI/AAAAAAAANyA/azYasmbHVfoqXqQPwM8r7J-mLkRmEDEIACLcBGAs/s1600/O%2BDoutor%2Bda%2BFelicidade%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Doutor da Felicidade [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:EB8EE2BAC152200CC853BD2BAE43421EB63276A7&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-hS6WvOW2XLg/Ww6X_5TmJFI/AAAAAAAAL5Y/t-uRenD7ScEo134eVKi7dUDCV0T0OgnYACLcBGAs/s1600/Unsane%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Distúrbio [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DB4752FF0EFA7DC1C6C0D4B2C25E22F97538A43A&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-bpufwT8EyH8/W0Iw4yPD5pI/AAAAAAAANkI/uXNKN5GjJGE_DEu_Q5DqDqqx5d8liiqBgCLcBGAs/s1600/Abandonada%2BO%2BMal%2BFoi%2BEleito%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Abandonada - O Mal Foi Eleito [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:943FDC81D8A0386945D575AE2D42AEDB525E1725&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ADI3_EXxiBk/WvT-wRtG1aI/AAAAAAAALQs/baou841qGxMZTMk5fOSE9zFLL1YYPYJqACLcBGAs/s1600/A%2BNoite%2Bdo%2BJogo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]A Noite do Jogo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:E82E42F610BEA2E6037E35308C04F4B433E25C2B&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/--AMlrwdCdzI/Wtkc0yxCR7I/AAAAAAAAKqI/33hNaYlg74Y0y70k9UbEK-99Y7KS-EY4QCLcBGAs/s1600/Condorito%2BO%2BFilme%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Condorito - O Filme [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DFF064059A0AEEC39674698071BC1DA0E0F9B513&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-nh6d7LA6tKA/W0JHL1-1lQI/AAAAAAAANlo/B1EPKrFT34MqT9O3MC4BMw5WBDoEN8rDwCLcBGAs/s1600/Caninos%2BBrancos%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Caninos Brancos [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:A8389335D1AC778A653993563DF22B96599C1563&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-xl2aVDmND0Y/W0JHL8J9l4I/AAAAAAAANls/WNbUWYfIJS4zfWTCnRMFxI__vEsMy7FwQCLcBGAs/s1600/Duck%2BButter%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Duck Butter [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:53103A0EC835668D94B496AA5E742C47347029C7&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-I8pKKbbG7dc/W0Iw6PiDwpI/AAAAAAAANkg/Nw5wEdcqRA0neq9nrrhVQ-SO5hxnJNkLwCLcBGAs/s1600/Medidas%2BDesesperadas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Medidas Desesperadas [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:CDF5E5144E6B456470018F8234CBCFA06EE8B5AA&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-vpZVhBu5WpQ/Wz-IpQ51Q_I/AAAAAAAANeA/bBUKOWUCxLEAm99spSplt9UK8RAGuVgWQCLcBGAs/s1600/Minha%2BPrimeira%2BCa%25C3%25A7ada%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Minha Primeira Caçada  [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:1F819C529480F62C1ED7F1FD63A6F6264ED4EF91&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-olyzuPFaFJU/Wz_k9GAlsBI/AAAAAAAANgE/Py0Ev5kjAIkM-ax4LhqCDkJbzV983vEiACLcBGAs/s1600/Um%2BFilho%2BQue%2BCaiu%2Bdo%2BC%25C3%25A9u%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Um Filho Que Caiu do Céu [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:AF34D3412E991833E9F1B2ED281E0A4F332F1F07&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sWWBu614lWQ/W0ARpjLgwmI/AAAAAAAANhE/auk0BznEWAMUf1HgBenozywyP-ttPPJGACLcBGAs/s1600/Sob%2Ba%2BPele%2Bdo%2BLobo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Sob a Pele do Lobo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:4C2EF5D03B43A894729152E1C8F526726617FE02&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-d0YIuMRD6Zo/Wzz2V0nW4RI/AAAAAAAANW0/F19U7yLkmGcQ6wWy8a_yjDUTHShb_z7UACLcBGAs/s1600/Rampage%2BDestrui%25C3%25A7%25C3%25A3o%2Btotal%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Rampage - Destruição Total [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:1EB7B0504219E8303306F779F7E6F9A5F5D4F863&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-HgdZBbGlIp0/WvJoh_oeVaI/AAAAAAAALOI/ANQkLk8nZJILOr9oZbyQB2X46ohJS75ZQCLcBGAs/s1600/Jogador%2Bn%25C3%25BAmero%2B1%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Jogador Número 1 [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:9CDC56546D36706A028E9276A264E111DB0475E2&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-q4JO7SJCod4/Wzk9JF6CRCI/AAAAAAAANN4/tZIjp2S1mHoGLbsZaOyQc14NWDpnfA1UgCLcBGAs/s1600/Exorcismos%2Be%2BDem%25C3%25B4nios%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Exorcismos e Demônios [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:20E1349BA2587BE002D056AD3E6C55813690714C&amp
-#EXTINF:0 tvg-logo="https://torrentfilmesagora.net/wp-content/uploads/2017/11/Cloverfield-A-Part%C3%ADcula-de-Deus.jpg",[COLOR blue]Cloverfield: A Partícula de Deus [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:38AB6651F8E706B0CF63A2F444D037CD36E978A0&amp
-#EXTINF:0 tvg-logo="http://www.comandotorrents.com/wp-content/uploads/2018/05/15h17.trem_.para-paris-torrent.png",[COLOR blue] 15h17 – Trem para Paris [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:08B0AD66944893D60164939384017DABC4A234C6&amp
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-5inBVXZtfDY/WxnRerl6zGI/AAAAAAAAINk/yq7-_m4vc7c2Y6O_mf0nICWcUWAbzrdOACLcBGAs/s1600/Paulo%252C-Ap%25C3%25B3stolo-de-Cristo.jpg",[COLOR blue]Paulo, Apóstolo de Cristo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:FFE0D4D2F43355BB4CB5642CCB84CA7352FF42FE&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-A3Xn1JfaLgo/WzPCZEU5nSI/AAAAAAAANDo/-Ic8B6LQg8MJ3HTA2xTrAejJluYePNfFQCLcBGAs/s1600/Imagens%2BMortais%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]magens Mortais [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:0A1980A195F44CAD417D51F54C3AFD7FA2AE2837&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-koNpKBstmo8/WwOPqTo9fOI/AAAAAAAALnM/w3L_Ej7U_m4MR1aXhv1IUZN254i6WAmkgCLcBGAs/s1600/Um%2BLugar%2BSilencioso%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Um Lugar Silencioso [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:146C00F24CDF60CF28915CB8EE1D1B79C690497E&amp		
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-JBO4KvQzGB4/WzMCXNr7TSI/AAAAAAAANCw/VtAWNBldlDQOP9KxEQj7tuhYG7v-8-0ZQCLcBGAs/s1600/Gostos%2Be%2BCores%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Gostos e Cores [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DA04489955906972134D28053D3E4A327B950E5D&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Hs3W_Eh6lnA/WrUYtGbCSUI/AAAAAAAAHe4/CxyB_AQS9N0GR2flkwM-PEXwMVe0gJCNACLcBGAs/s1600/Sem-F%25C3%25B4lego.jpg",[COLOR blue]Sem Fôlego [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:A899E01F72B499D813D7A8ED8A7216EF3563EEDA&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-tc7EHC2eV_0/WzUvtbu36gI/AAAAAAAAIdQ/QuexPjPFh7wYVkVOcXWj-XFE3z3nTAxnACLcBGAs/s1600/A-Vingan%25C3%25A7a-Perfeita.jpg",[COLOR blue]A Vingança Perfeita [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:DE64E8FF2E8BC5CCEE5975579BC415AFCE3AF953&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ApDDewOkt0c/WzLfQ-wNUpI/AAAAAAAANB0/4CJftPIFkj84Jo7F30npQarWZYkdaZaAgCLcBGAs/s1600/Circulo%2Bde%2BFogo%2Ba%2BRevolta%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Círculo de Fogo - A Revolta [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:C61460F95983EAAE912356D46838D907ACEEC9A8&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-szUzzq7XqlE/WzLW1tNeFqI/AAAAAAAAL_E/QIGTVDtf9ToNyVzKuim3hMd4XfSXwF__wCLcBGAs/s1600/cover.jpg",[COLOR blue]Círculo de Fogo – A Revolta [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...4kUltraHD Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:5548F52AF83B3FAD6B31E6A022BC151C1FC8D916&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-6BjqTZKVGjI/WzMCVo6hOfI/AAAAAAAANCc/lcDzuW5B-70KVqX6QXjVwaj7VEbwaV3jACLcBGAs/s1600/A%2BVida%2BEm%2BEspera%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue] A Vida em Espera [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:6FFED683D3BC69AD560D57E3107F018CE02B6005&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-KUkWbTUEevk/WzLsYWXAi4I/AAAAAAAANCM/3nHaajwpAw4tfz5jaMUrKC2udToQ4On3QCLcBGAs/s1600/Uma%2Bdobra%2Bno%2Btempo%2Btorrent%2Bdublado%2Bbluray%2Bhd.jpg",[COLOR blue]Uma Dobra no Tempo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:CD5677D34555C8DB9880BB0011E33DB8537357EE&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-EBH3maOXaec/WzMCPgpI8dI/AAAAAAAAL_c/TFtLwqCpO64pXRQECYWeLby_nApvcz1JgCLcBGAs/s1600/cover.jpg",[COLOR blue]Belle e Sebástian A Aventura Continua [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:16A2585E7F37D39C79328B3B0DBC53EB418B052C&amp
-#EXTINF:0 tvg-logo="http://www.filmesetorrent.net/wp-content/uploads/2018/06/conflitos-em-fam%C3%ADlia-capa-350x525-200x300.jpg",[COLOR blue]Conflitos em Família [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:608D74E60B72F7964B4209088127DA50CB8E0798&amp
-#EXTINF:0 tvg-logo="http://www.filmesetorrent.net/wp-content/uploads/2018/06/O-Vazio-do-Domingo-201x300.jpg",[COLOR blue]O Vazio do Domingo [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:7EA0B5CAFA1C6DA8CBE4A1AC8C263619C813FDFD&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1TItiXUlvCU/WyZ2u5jqdxI/AAAAAAAAMmc/DE0pm3dmnBYpx98ucl0nPoW2iK0xKhO9ACLcBGAs/s1600/Guerreira%2Bde%2BSangue%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Guerreira de Sangue [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:9941D669E04C39E05420089A0CFB00A99D97077E&amp
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-iCCaJXQMOEE/WvT-yaXOEaI/AAAAAAAALRM/nTKgl5mQJHkOZJCY2INFa3zZOuha4GTLwCLcBGAs/s1600/O%2BHomem%2Bdas%2BCavernas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Homem das Cavernas [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:210C0C7D4E8FA93B3A34B644322A2FA1F4735A50&amp
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-PYRACAnZPv8/WyPEjHZIaiI/AAAAAAAAMhs/R-U9ncBUe68YJrBbFOWCLZ27jLxRDpBhACLcBGAs/s1600/O%2BPassageiro%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]O Passageiro [COLOR White](2018)[/COLOR][/COLOR][COLOR gold]...Dublado...[/COLOR]
-plugin://plugin.video.elementum/play?uri=urn:btih:388CB52EE629AA26028994FA00B5F34CCEEA98F3&amp
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-QII9O52Qiw0/WyRyUEyL0ZI/AAAAAAAAMiY/EX0GwI6RjRoD4x_B5C6MbllLcQ0124nbwCLcBGAs/s1600/Beirut%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg",[COLOR blue]Beirut
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
